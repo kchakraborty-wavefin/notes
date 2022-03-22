@@ -1,0 +1,8 @@
+- is a concurrency control method for DB systems
+- before the DB commit, each transaction verifies that no other transaction has modified the data it has read
+- if check reveals modifications → committing transaction rolls-back, and restarts
+- phases:
+	- begin: record a timestamp marking transaction begin
+	- modify: read db values, tentatively write changes
+	- validate: check whether other transactions have modified data that this transaction has used (read/written). This includes other transactions which completed after this transactions start time, and optionally transactions that are active at validation time
+	- commit/rollback: if no conflict, commit. If conflict, resolve it using a resolution schema or abort it. Be careful to avoid time-of-check to time-of-use race conditions (TOCTOU)

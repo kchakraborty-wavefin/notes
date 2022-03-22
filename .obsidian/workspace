@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "7670398394f078e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ec92ca6ce53d5cb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "system-design/22-03-2022-core-team.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "48692cc62938ea74",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1eff786744c652d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c94e6a76d1673f61",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "bf62ab6df785687b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "BASE",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1ac27e6515948535",
+    "type": "split",
+    "children": [
+      {
+        "id": "6030be00d2f6660f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1aaf6d92f00746f9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "system-design/22-03-2022-core-team.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "6ec92ca6ce53d5cb",
+  "lastOpenFiles": [
+    "system-design/22-03-2022-core-team.md",
+    "system-design/Profiles Architecture.md",
+    "system-design/Distributed Transaction Management.md",
+    "system-design/ACID-BASE review.md",
+    "system-design/Optimistic Locking.md",
+    "system-design/Profiles Data Model.md",
+    "assets/partial_business_create.png",
+    "().md",
+    "system-design/UUIDs.md",
+    "BASE.md"
+  ]
+}
