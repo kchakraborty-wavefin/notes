@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "system-design/Profiles Data Model.md",
+            "file": "system-design/Profiles Architecture.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system-design/Profiles Data Model.md",
+                "file": "system-design/Profiles Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,12 +89,12 @@
   },
   "active": "6ec92ca6ce53d5cb",
   "lastOpenFiles": [
+    "system-design/Profiles Architecture.md",
     "system-design/Profiles Data Model.md",
     "system-design/22-03-2022-core-team.md",
     "ramblings/what-needs-to-change.md",
     "README.md",
     "system-design/UUIDs.md",
-    "system-design/Profiles Architecture.md",
     "system-design/Distributed Transaction Management.md",
     "system-design/ACID-BASE review.md",
     "system-design/Optimistic Locking.md",
