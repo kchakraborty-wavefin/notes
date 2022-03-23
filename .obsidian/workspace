@@ -7,8 +7,12 @@
         "id": "6ec92ca6ce53d5cb",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "ramblings/what-needs-to-change.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ramblings/what-needs-to-change.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,15 +88,15 @@
   },
   "active": "6ec92ca6ce53d5cb",
   "lastOpenFiles": [
+    "ramblings/what-needs-to-change.md",
+    "system-design/UUIDs.md",
     "system-design/Profiles Architecture.md",
     "system-design/Distributed Transaction Management.md",
     "system-design/ACID-BASE review.md",
     "README.md",
     "system-design/Optimistic Locking.md",
-    "ramblings/what-needs-to-change.md",
     "system-design/22-03-2022-core-team.md",
     "system-design/Profiles Data Model.md",
-    "assets/partial_business_create.png",
-    "().md"
+    "assets/partial_business_create.png"
   ]
 }
