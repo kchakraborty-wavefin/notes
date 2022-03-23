@@ -10,6 +10,6 @@ Anything and everything with ads eventually has an expiry date, and for now, maj
 
 Brave browser is another good example of incorporating ads, if we _need_ to go that route. It becomes a game of who makes the best sponsered section transition a la YouTube style. The more engaged (screen time) we can keep the user through these ads, the more both parties win. 
 
-The other reason this doesn't work is because people no longer want just *blatant* ads either. Keyword, blatant. Ads were _perhaps, maybe? idk_ cool at some point during their initiation, but it's an absolute incovenience within the user flow due to the motivations of ad companies (click based revenue) and more impoblatantness 
+The other reason this doesn't work is because people no longer want just *blatant* ads either. Keyword, blatant. Ads were _perhaps, maybe? idk_ cool at some point during their initiation, but it's an absolute incovenience within the user flow due to the motivations of ad companies (click based revenue) and more importantly blatantness 
 
 
