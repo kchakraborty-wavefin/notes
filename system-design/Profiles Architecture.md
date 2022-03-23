@@ -92,7 +92,6 @@ Migration Process:
 #### Saga
 - `identity` creates transaction, creates and commits User/Business entity with pre-gen `profiles` id, writing to kafka
 - `profiles` consumer consumes messag and commits corresponding `Person` or `Business`
-
 - kinda like facebook? where you like gets sent to a kafka producer, and takes time for change in UI -> let owner know of imminent change in sometime a la github style
 - Some services prevent frequently updating for a set number of days so users can think properly before setting (reduces actions on our end)
 - What's the business value for keeping this instant. Chances of multiple updates are not as high, and we can use client side interval polling to not poll as often, given realistically we would know avg latency via stress test maybe?
