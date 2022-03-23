@@ -6,3 +6,5 @@
 `Business`: a Legal Business (may be modelled by multiple `identity` `Businesses`), a `LegalEntity`
 `Person`: a Person associated with a Business (may represent an `identityUser`), a `LegalEntity`
 
+
+
