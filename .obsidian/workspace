@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "system-design/Profiles Architecture.md",
-            "mode": "preview",
+            "file": "system-design/Why is Kafka fast?.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system-design/Profiles Architecture.md",
+                "file": "system-design/Why is Kafka fast?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "6ec92ca6ce53d5cb",
   "lastOpenFiles": [
+    "system-design/Why is Kafka fast?.md",
     "system-design/Profiles Architecture.md",
     "system-design/UUIDs.md",
     "system-design/Profiles Data Model.md",
@@ -97,7 +98,6 @@
     "README.md",
     "system-design/Distributed Transaction Management.md",
     "system-design/ACID-BASE review.md",
-    "system-design/Optimistic Locking.md",
-    "assets/partial_business_create.png"
+    "system-design/Optimistic Locking.md"
   ]
 }
