@@ -82,9 +82,9 @@ Migration Process:
 
 > 2.) In scenario 1 and 3, we have empty entities being returned by something like a `get_or_create` call? I know it's mentioned that these aren't persisted, but [this type of call](https://github.com/django/django/blob/main/django/db/models/query.py#L777) would net an `(object, created)` tuple, or is this some other form of logic involving the `except Model.DoesNotExist` case? Also, for scenario 2, why are there two endpoints for fetching business profile, and also lack of empty entities, but explicit need for not found exceptions?
 
-> 3.) How does a concurrent update scenario look on the client or another service updating? What does our commit/rollback schema look like or more so our [[optimistic locking]] handling strategy? switch to sycchronous? if a transaction were to start over how does it look on the UI end? Since everything is synchronous there is no point of faillure?
+> 3.) How does a concurrent update scenario look on the client or another service updating? What does our commit/rollback schema look like or more so our [[Optimistic Locking]] handling strategy? switch to sycchronous? if a transaction were to start over how does it look on the UI end? Since everything is synchronous there is no point of faillure?
 
-> 4.) What is being referred to as the `client` in terms of handling concurrent update requests gracefully based on [[optimistic locking]]? Is it the initial client making the GET request, the client side UI, or the db client used to interface and query the db?
+> 4.) What is being referred to as the `client` in terms of handling concurrent update requests gracefully based on [[Optimistic Locking]]? Is it the initial client making the GET request, the client side UI, or the db client used to interface and query the db?
 
 > 5.) With the current preferred solution, it would seem that the migration process would be the most work wrt backfilling (what do we use? airflow?) and what would be a conflict resolution scenario between two example services?
 
