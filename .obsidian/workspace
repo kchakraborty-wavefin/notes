@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "system-design/Profiles Data Model.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system-design/Profiles Data Model.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "6ec92ca6ce53d5cb",
   "lastOpenFiles": [
+    "README.md",
+    "system-design/Profiles Architecture.md",
     "system-design/Profiles Data Model.md",
     "system-design/UUIDs.md",
     "system-design/Why is Kafka fast?.md",
-    "system-design/Profiles Architecture.md",
     "system-design/Optimistic Locking.md",
     "system-design/Distributed Transaction Management.md",
     "system-design/ACID-BASE review.md",
     "ramblings/what-needs-to-change.md",
-    "django/Untitled.md",
-    "README.md"
+    "django/Untitled.md"
   ]
 }
