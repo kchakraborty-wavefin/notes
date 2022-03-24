@@ -15,11 +15,11 @@ Things change in a distributed transaction env where A now needs to transfer to 
 - XA is a spec for distributed transactions proposed by X/Open org
 - essentially, there’s an interface between a global Transaction Manager (DTM) and a local resource manager (MySQL, PgSQL etc.)
 - Phases:
-	- prepare: all RMs prepare to execute their transactions and lock the required resources. When ready, they report to TM stating ready state
+	- prepare: all RMs prepare to execute their transactions and lock the required resources. When ready, they report to global TM stating ready state
 	- commit/rollback: TM confirms all RMs ready, sends commit command to all participants 
 
 #### Saga
-- long lived transaction as a multiple short local transactions, done by SAGA coordinator (DTM)
+- long lived transaction as multiple short local transactions, done by SAGA coordinator (DTM)
 - Phases:
 	- commit saga transaction including transOUTs/INs provided by all participating RMs
 	- the DTM coordinates the transOUT and then transINs

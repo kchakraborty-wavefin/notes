@@ -90,14 +90,14 @@
   "active": "6ec92ca6ce53d5cb",
   "lastOpenFiles": [
     "system-design/Distributed Transaction Management.md",
+    "system-design/ACID-BASE review.md",
+    "ramblings/what-needs-to-change.md",
     "system-design/Profiles Architecture.md",
     "system-design/Why is Kafka fast?.md",
     "system-design/UUIDs.md",
     "system-design/Profiles Data Model.md",
     "system-design/Optimistic Locking.md",
-    "system-design/ACID-BASE review.md",
     "django/Untitled.md",
-    "README.md",
-    "system-design/22-03-2022-core-team.md"
+    "README.md"
   ]
 }

@@ -14,7 +14,7 @@ The other reason this doesn't work is because people no longer want just *blatan
 
 In general, the downward trend for ads is nothing new, Tikok has been an excellent example as a case study for building trust based fan following, and revenue stream for many companies at this point, and all through the means of influencer marketing. These influencers aren't just reviewing entire platforms or products, but are innovating and doing away with the blatantness that the old age ads system relied on. 
 
-If organizations can somehow run ads, while said ads are not just blatantly promoting a product, but also providing value to the user in that said 15-30 second slot, then it's a win-win. However, this model is not feasible for all companies, with their respective user flows given most ads break away attention from main utility factor. 
+If organizations can somehow run ads, while said ads are not just blatantly promoting a product, but also providing value to the user in that said 15-30 second slot, then it's a win-win. However, this model is not feasible for all companies, with their respective user flows given most ads break away attention from the main utility factor. 
 
 Idea: tiktok style ads, or ads in general which not only demonstrate a product, but quickly demonstrate value directly linked with business? If the end goal for ad agencies is to get the user to actually watch the ad, wouldn't it be about time they actually put effort into making these ads instead of slapping a generic image and those :star::star::star:'s that make any review look like it's from the 00s era. 
 
