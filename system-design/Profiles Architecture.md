@@ -17,7 +17,7 @@ Considerations of current solutions:
 [[UUIDs|Aside on UUIDs]]
 
 #### Solution 1: Update or Create in profiles
-identity creates profile ids ahead of time using [[UUIDs|UUID v5]]→ so we supply the UUIDv1 to identity to autogenerate the profile ids
+identity creates profile ids ahead of time using [[UUIDs|UUID v5]]→ so we supply the UUIDv4's to identity to autogenerate the profile ids
 
 **[Steps (partial signup flow User/Person)](/)**
 
