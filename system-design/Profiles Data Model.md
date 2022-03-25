@@ -14,6 +14,12 @@
 - `Roles`
 - `Ownership`
 
+We don't need classes to represent kinds of ownership since it's pretty straightforward
+> where does the concept of shares come from? Is this multiple owners for a business or some other definition?
+
+Example of `roles` - `director`, `contractor`, `employee`, `payor` (contractor or payor can be another `Business`)
+> Type checks for contractor and payor
+
 ```python
 import datetime
 import decimal
@@ -134,4 +140,17 @@ person = Person(
 
 #### Problem: Data Changes Over Time
 - find way to represent current and historical data associated with `LegalEntities`
+- this data may be used to generate forms retroactively, its interface will need to be able to reconstitute this data by effective date
+- 
+```python
+associated_legal_entities = {
+        '73ba9e5e-5502-522a-89e4-e5ecd32a934a': {
+            'type': 'Person',
+            'roles': ['director'],
+            'ownership': decimal.Decimal(1),
+        }
+    },
+```
+
+> dict of [key: str, val: Person | Business] ?
 
