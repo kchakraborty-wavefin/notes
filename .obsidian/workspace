@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "system-design/Distributed Transaction Management.md",
+            "file": "system-design/ACID-BASE review.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system-design/Distributed Transaction Management.md",
+                "file": "system-design/ACID-BASE review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "6ec92ca6ce53d5cb",
   "lastOpenFiles": [
+    "system-design/ACID-BASE review.md",
     "system-design/Distributed Transaction Management.md",
     "system-design/Optimistic Locking.md",
     "system-design/UUIDs.md",
@@ -97,7 +98,6 @@
     "general-tech/circle-ci/Untitled.md",
     "general-tech/Growth Structure for tech careers.md",
     "system-design/Profiles Data Model.md",
-    "general-tech/When to use what type of API?.md",
-    "README.md"
+    "general-tech/When to use what type of API?.md"
   ]
 }
