@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "system-design/ACID-BASE review.md",
+            "file": "Kube-at-wave/Wave x Kubernetes Cutover.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1ac27e6515948535",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system-design/ACID-BASE review.md",
+                "file": "Kube-at-wave/Wave x Kubernetes Cutover.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +90,8 @@
   },
   "active": "6ec92ca6ce53d5cb",
   "lastOpenFiles": [
+    "Kube-at-wave/Wave x Kubernetes Cutover.md",
+    "Kube-at-wave/Containers.md",
     "system-design/ACID-BASE review.md",
     "system-design/Distributed Transaction Management.md",
     "system-design/Optimistic Locking.md",
@@ -96,8 +99,6 @@
     "system-design/Profiles Architecture.md",
     "general-tech/circle-ci/concepts.md",
     "general-tech/circle-ci/Untitled.md",
-    "general-tech/Growth Structure for tech careers.md",
-    "system-design/Profiles Data Model.md",
-    "general-tech/When to use what type of API?.md"
+    "general-tech/Growth Structure for tech careers.md"
   ]
 }
