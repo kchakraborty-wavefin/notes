@@ -23,9 +23,11 @@
             "id": "3ccbcffe19ae87a4",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.0.0"
+                "file": "system-design/Profiles Architecture.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system-design/Distributed Transaction Management.md",
+                "file": "system-design/Profiles Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,11 +113,11 @@
   },
   "active": "3ccbcffe19ae87a4",
   "lastOpenFiles": [
+    "system-design/Optimistic Locking.md",
+    "system-design/Distributed Transaction Management.md",
     "Kube-at-wave/Wave x Kubernetes Cutover.md",
     "Kube-at-wave/Containers.md",
     "system-design/ACID-BASE review.md",
-    "system-design/Distributed Transaction Management.md",
-    "system-design/Optimistic Locking.md",
     "system-design/UUIDs.md",
     "system-design/Profiles Architecture.md",
     "general-tech/circle-ci/concepts.md",
